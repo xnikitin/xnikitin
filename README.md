@@ -23,6 +23,10 @@ Here is what I work with:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+My LeetCode stats:
+
+![Alexeys's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anikit&theme=dark)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
