@@ -27,6 +27,14 @@ My LeetCode stats:
 
 ![Alexeys's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anikit&theme=dark)
 
+A harmless joke:
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+A smart quote:
+
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
