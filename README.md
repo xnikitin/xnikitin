@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! I'm <a href="https://www.linkedin.com/in/alexey-nikitin-de/" target="_blank">Alexey</a>👋</h1>
-<h3 align="center">Azure Data Engineer from Frankfurt, Germany</h3>
+<h3 align="center">Senior Data Engineer (Azure) at LAYA Group from Frankfurt, Germany</h3>
 
 - If you are a human, we can talk in 🇺🇸, 🇩🇪, or 🇷🇺
 - If you are a machine, the language is negotiable. I prefer C# and SQL
