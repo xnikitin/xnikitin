@@ -1,11 +1,11 @@
 <h1 align="center">Hey! I'm <a href="https://www.linkedin.com/in/alexey-nikitin-de/" target="_blank">Alexey</a>👋</h1>
 <h3 align="center">Azure Data Engineer from Frankfurt, Germany</h3>
 
-💞️ As a passionate data engineer and database expert, I believe that building a functional system is commendable, but crafting one that everyone can understand is truly invaluable.
+As a passionate data engineer and database expert, I believe that building a functional system is commendable, but crafting one that everyone can understand is truly invaluable.
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/alexey-nikitin-de/" target="_blank">LinkedIn</a>
+How to reach me: <a href="https://www.linkedin.com/in/alexey-nikitin-de/" target="_blank">LinkedIn</a>
 
-👑 Here are some of my favorite technologies and tools:
+Here are some of my favorite technologies and tools:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
