@@ -25,11 +25,6 @@ Here are some of my favorite technologies and tools:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-
-My LeetCode stats:
-
-![Alexeys's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=anikit&theme=dark)
-
 An inspirational quote:
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
